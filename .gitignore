@@ -1,0 +1,17 @@
+build/
+signing/
+local.properties
+.gradle/
+**/__pycache__/
+tests/out/
+third_party/maven/
+third_party/unpacked/
+third_party/auth-compile/
+node_modules/
+.signing/
+.env
+.env.*
+*.keystore
+*.jks
+*.p12
+*.apk
